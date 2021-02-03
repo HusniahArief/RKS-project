@@ -1,6 +1,6 @@
 # RKS-project
 
-The "We care app" application uses Android Studio which is where to create the Front End using java language. In the Front End that I built, it follows or there are several that match the wireframe design, workflow, and documentation requirements that I made before UAS. The following is the link to the previous UTS folder which contains workflows, wireframes, and required documentation, and also you can see "THE DEMO" at the following link:
+The "We care app" application uses Android Studio which is where to create the Front End using java language. In the Front End that I built, it follows or there are several that match the wireframe design, workflow, and documentation requirements that I made before UAS. The following is the link to the previous UTS folder which contains workflows, wireframes, and required documentation below:
 
 https://drive.google.com/drive/u/0/folders/1m1YnEoIZLOyImWchaHVf7IwO8WYIatPH
 
@@ -67,6 +67,10 @@ F.Gradle
 
 	build.gradle
 	build.app
+	
+G. For "THE DEMO" video you can also see at the following link below:
+
+	https://drive.google.com/drive/u/0/folders/1m1YnEoIZLOyImWchaHVf7IwO8WYIatP
 	
 	
 	
