@@ -70,7 +70,7 @@ F.Gradle
 	
 G. For "THE DEMO" video you can also see at the following link below:
 
-	https://drive.google.com/drive/u/0/folders/1m1YnEoIZLOyImWchaHVf7IwO8WYIatP
+https://drive.google.com/drive/u/0/folders/1m1YnEoIZLOyImWchaHVf7IwO8WYIatPH
 	
 	
 	
